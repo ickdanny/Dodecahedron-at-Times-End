@@ -1,7 +1,7 @@
 $ErrorActionPreference = "Stop"
 
 # Clean
-Remove-Item -Recurse -Force build,DATE,DATE.zip -ErrorAction SilentlyContinue
+Remove-Item -Recurse -Force build,EU01_DATE,EU01_DATE.zip -ErrorAction SilentlyContinue
 
 # Make build dirs
 mkdir build -Force
