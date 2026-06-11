@@ -1,6 +1,6 @@
 # Dodecahedron at Time's End v1.1
 
-Dodecahedron at Time's End (DATE) is the first entry in the Eucatastrophe series of vertical bullet hell shoot-em-up games. This repository includes all resources needed to compile and build the game locally. The underlying engine is called the Dodo Engine, and it is written using Java and is engineered around OOP principles.
+Dodecahedron at Time's End (DATE) is the first entry in the Eucatastrophe series of vertical bullet hell shoot-em-up games. This repository includes all resources needed to compile and build the game locally. The underlying engine is called the Dodo Engine, and it is written using Java.
 
 Instructions on how to play the game can be found in `packaging/README.txt`.
 
