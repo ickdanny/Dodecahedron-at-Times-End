@@ -19,8 +19,8 @@ To build the game, the following are required:
 Install DATE as follows using Powershell:
 
 ```
-git clone https://www.github.com/ickdanny/Dodecahedron-At-Times-End
-cd Dodecahedron-At-Times-End
+git clone https://www.github.com/ickdanny/Dodecahedron-at-Times-End
+cd Dodecahedron-at-Times-End
 .\build.ps1
 ```
 
