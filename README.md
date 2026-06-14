@@ -13,6 +13,7 @@ To run the game, the following minimum requirements are stated:
 To build the game, the following are required:
 - OpenJDK 25.0.3 (earlier versions will most likely work)
 - Powershell
+- Git
 
 ## Installation
 
